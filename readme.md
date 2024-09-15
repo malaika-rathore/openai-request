@@ -16,7 +16,7 @@ now simple update the prompt in the openai_call file and run the file using  `py
 
 
 ## How to create OpenAI API Key
-- Go to [open ai playgroung]('https://platform.openai.com/docs/overview')
+- Go to [open ai playground]('https://platform.openai.com/docs/overview')
 - If your account is already logged in you'll be at documentation page else first login to your gpt account
 - Then click on the profile icon on top right corner and in dropdown click on `your profile` tab
 - Now you'll be on your profile setting tab
